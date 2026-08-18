@@ -11,10 +11,10 @@ Multilingual technical writer with hands-on experience producing safety-critical
 - [API Documentation (practice project)](https://github.com/Maelle-E-TechWriter/api-documentation-practice)
 ---
 ## Background
-Currently working as a Technical Writer for Médiane Système, I have worked for clients such as Schneider Electric, where I wrote and maintained field noctices, produced safety documentation compliant with international standards (ISO, IEC, UL), and reviewed technical content in a regulated environment. 
-Previously, as a Localization Coordinator at Fresenius Kabi, I managed multilingual localization projects (up to 28 languages) for medical devices, ensuring regulatory compliance across translated content.
+Currently working as a Technical Writer for Médiane Système, I have worked for clients such as Schneider Electric since 2023, owning the full documentation lifecycle for Installation, Operation & Maintenance (IOM) manuals for industrial cooling and electrical equipment, from technical input collection with mechanical, electrical, and compliance engineers to final pûblication. 
+Between 2024 and 2025, I coordinated multilingual localization projects for regulated medical devices at Fresenius Kabi, managing translation and terminology consistency across up to 28 languages.
 I hold a Master's degree in Foreign Languages, Literature, and Civilization (LLCER) from Université Grenoble-Alpes, with training in translation and digital humanities (HTML markup). 
-**Tools:** DITA / OxygenXML, Confluence, JIRA, Sharepoint, Azure DevOps, Adobe InDesign, HTML/CSS, Git &GitHub.
+**Tools:** DITA / OxygenXML, Confluence, JIRA, Sharepoint, Azure DevOps, Adobe InDesign & Acrobat, Markdown, basic HTML/CSS, Git & GitHub.
 ---
 ## Contact
 - [LinkedIn](www.linkedin.com/in/maelle-esnault-techwriter)
